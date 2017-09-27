@@ -8,6 +8,7 @@ npm install -g expess-generator                     express är ett ramverk för
 express {PROJEKTNAMN}
 cd in i projektet
 npm install
+npm install --save body-parser
 npm start
 localhost:3000
 kolla sedan app.js och leta kommentarer på svenska.
